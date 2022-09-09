@@ -1,0 +1,515 @@
+,Unnamed: 0,Date,Injury Location,Gender,Age Group,Incident Type,Days Lost,Plant,Report Type,Shift,Department,Incident Cost,WkDay,Month,Year
+0,0,1-Jan-20,Multiple,Male,25-34,Burn,0.0,Iowa,Near Miss,Afternoon,Painting,$0 ,Wed,1,2020
+1,1,3-Jan-20,,Male,35-49,Vehicle,0.5,Alabama,Lost Time,Day,Fabrication,"$3,367 ",Fri,1,2020
+2,2,3-Jan-20,Eye,Male,18-24,Cut,0.0,Georgia,Near Miss,Day,Administration,$0 ,Fri,1,2020
+3,3,4-Jan-20,Legs,Female,50+,Falling object,0.0,Iowa,Near Miss,Day,Painting,$0 ,Sat,1,2020
+4,4,7-Jan-20,Legs,Male,25-34,Lifting,0.0,Ohio,Near Miss,Day,Painting,$0 ,Tue,1,2020
+5,5,11-Jan-20,,Female,50+,Crush & Pinch,0.0,Georgia,First Aid,Afternoon,Security,$132 ,Sat,1,2020
+6,6,11-Jan-20,Neck,Male,25-34,Crush & Pinch,3.5,Iowa,Lost Time,Day,Purchasing,"$4,872 ",Sat,1,2020
+7,7,12-Jan-20,Feet,Male,35-49,Burn,1.5,California,Lost Time,Night,Administration,"$1,248 ",Sun,1,2020
+8,8,15-Jan-20,,Male,18-24,Fall,0.0,Florida,First Aid,Afternoon,Maintenance,$29 ,Wed,1,2020
+9,9,16-Jan-20,Arms,Male,50+,Crush & Pinch,4.5,Florida,Lost Time,Afternoon,Administration,"$2,525 ",Thu,1,2020
+10,10,18-Jan-20,,Female,35-49,Falling object,0.0,Iowa,First Aid,Night,Shipping,$59 ,Sat,1,2020
+11,11,23-Jan-20,Neck,Male,35-49,Crush & Pinch,0.0,Alabama,Medical Claim,Afternoon,Shipping,"$1,947 ",Thu,1,2020
+12,12,26-Jan-20,Eye,Male,35-49,Vehicle,0.0,Florida,Medical Claim,Day,Finishing,"$2,268 ",Sun,1,2020
+13,13,27-Jan-20,Eye,Male,50+,Burn,0.0,Texas,Medical Claim,Day,Maintenance,$628 ,Mon,1,2020
+14,14,27-Jan-20,Eye,Male,35-49,Burn,0.0,Georgia,First Aid,Night,Finishing,$77 ,Mon,1,2020
+15,15,27-Jan-20,Back,Male,50+,Cut,0.0,Ohio,First Aid,Day,Shipping,$341 ,Mon,1,2020
+16,16,30-Jan-20,Arms,Male,18-24,Burn,0.0,Montana,Near Miss,Afternoon,Maintenance,$0 ,Thu,1,2020
+17,17,30-Jan-20,Hands,Male,35-49,Fall,0.0,California,Medical Claim,Day,Melting,"$2,007 ",Thu,1,2020
+18,18,1-Feb-20,Multiple,Male,50+,Crush & Pinch,0.0,Illinois,First Aid,Night,Painting,$338 ,Sat,2,2020
+19,19,3-Feb-20,Arms,Male,35-49,Fall,4.0,Ohio,Lost Time,Night,Maintenance,"$1,196 ",Mon,2,2020
+20,20,4-Feb-20,Head,Male,18-24,Lifting,0.0,Montana,Near Miss,Night,Shipping,$0 ,Tue,2,2020
+21,21,9-Feb-20,Feet,Male,35-49,Crush & Pinch,0.0,Montana,First Aid,Afternoon,Melting,$180 ,Sun,2,2020
+22,22,9-Feb-20,Head,Male,25-34,Equipment,4.5,Florida,Lost Time,Afternoon,Shipping,"$3,784 ",Sun,2,2020
+23,23,10-Feb-20,Feet,Male,35-49,Burn,1.5,Texas,Lost Time,Day,Melting,"$4,414 ",Mon,2,2020
+24,24,10-Feb-20,Head,Male,35-49,Slip/trip,2.5,Ohio,Lost Time,Afternoon,Security,"$2,790 ",Mon,2,2020
+25,25,11-Feb-20,,Male,25-34,Slip/trip,0.0,Illinois,First Aid,Afternoon,Administration,$394 ,Tue,2,2020
+26,26,12-Feb-20,Hands,Male,50+,Fall,4.0,Montana,Lost Time,Afternoon,Finishing,"$4,743 ",Wed,2,2020
+27,27,13-Feb-20,,Male,50+,Burn,4.5,Illinois,Lost Time,Night,Finishing,"$3,417 ",Thu,2,2020
+28,28,13-Feb-20,Legs,Male,25-34,Crush & Pinch,0.0,Alabama,Medical Claim,Night,Painting,"$2,337 ",Thu,2,2020
+29,29,14-Feb-20,Abdomen,Male,25-34,Equipment,0.0,Georgia,Near Miss,Night,Shipping,$0 ,Fri,2,2020
+30,30,16-Feb-20,Abdomen,Male,50+,Slip/trip,0.0,California,First Aid,Day,Fabrication,$207 ,Sun,2,2020
+31,31,17-Feb-20,Multiple,Female,35-49,Fall,2.0,Ohio,Lost Time,Night,Maintenance,"$2,544 ",Mon,2,2020
+32,32,19-Feb-20,Multiple,Female,35-49,Equipment,0.0,Montana,Medical Claim,Day,Administration,"$3,411 ",Wed,2,2020
+33,33,20-Feb-20,Back,Male,25-34,Slip/trip,0.0,California,Near Miss,Afternoon,Fabrication,$0 ,Thu,2,2020
+34,34,22-Feb-20,,Male,25-34,Equipment,0.0,Georgia,Medical Claim,Afternoon,Fabrication,"$4,800 ",Sat,2,2020
+35,35,27-Feb-20,Neck,Male,50+,Equipment,0.0,Texas,Medical Claim,Night,Maintenance,"$3,339 ",Thu,2,2020
+36,36,28-Feb-20,Back,Male,50+,Lifting,5.0,Montana,Lost Time,Night,Fabrication,"$4,969 ",Fri,2,2020
+37,37,1-Mar-20,Trunk,Male,18-24,Fall,0.0,Montana,First Aid,Afternoon,Shipping,$360 ,Sun,3,2020
+38,38,3-Mar-20,Eye,Male,35-49,Burn,0.0,Iowa,Near Miss,Afternoon,Shipping,$0 ,Tue,3,2020
+39,39,3-Mar-20,,Male,50+,Crush & Pinch,2.5,Florida,Lost Time,Day,Maintenance,"$4,718 ",Tue,3,2020
+40,40,6-Mar-20,Eye,Male,25-34,Burn,0.0,Ohio,Near Miss,Night,Shipping,$0 ,Fri,3,2020
+41,41,6-Mar-20,Head,Male,18-24,Cut,0.0,Montana,First Aid,Day,Shipping,$456 ,Fri,3,2020
+42,42,7-Mar-20,Feet,Male,18-24,Fall,0.0,Alabama,First Aid,Night,Administration,$307 ,Sat,3,2020
+43,43,11-Mar-20,Arms,Male,35-49,Cut,0.0,Ohio,Near Miss,Day,Maintenance,$0 ,Wed,3,2020
+44,44,12-Mar-20,Neck,Female,18-24,Fall,0.0,Florida,Medical Claim,Day,Administration,"$4,933 ",Thu,3,2020
+45,45,17-Mar-20,Abdomen,Male,25-34,Slip/trip,4.5,Iowa,Lost Time,Day,Fabrication,"$3,146 ",Tue,3,2020
+46,46,20-Mar-20,Eye,Male,35-49,Lifting,0.0,Montana,Near Miss,Day,Security,$0 ,Fri,3,2020
+47,47,21-Mar-20,Back,Male,35-49,Falling object,0.0,Ohio,Medical Claim,Night,Melting,"$3,084 ",Sat,3,2020
+48,48,23-Mar-20,Multiple,Male,35-49,Falling object,0.0,Florida,Near Miss,Afternoon,Finishing,$0 ,Mon,3,2020
+49,49,3-Apr-20,Legs,Male,18-24,Burn,0.0,California,First Aid,Night,Painting,$260 ,Fri,4,2020
+50,50,4-Apr-20,Trunk,Male,25-34,Equipment,0.0,50,First Aid,Afternoon,Melting,$40 ,Sat,4,2020
+51,51,4-Apr-20,Back,Male,25-34,Vehicle,0.0,Montana,Medical Claim,Day,Finishing,"$2,615 ",Sat,4,2020
+52,52,4-Apr-20,Arms,Male,35-49,Falling object,4.5,Montana,Lost Time,Day,Administration,$450 ,Sat,4,2020
+53,53,6-Apr-20,,Male,18-24,Slip/trip,0.0,Illinois,Medical Claim,Night,Finishing,"$4,462 ",Mon,4,2020
+54,54,7-Apr-20,Legs,Male,25-34,Lifting,0.0,Ohio,First Aid,Night,Purchasing,$76 ,Tue,4,2020
+55,55,12-Apr-20,,Male,25-34,Fall,0.0,Ohio,First Aid,Night,Maintenance,$297 ,Sun,4,2020
+56,56,13-Apr-20,Eye,Female,50+,Vehicle,4.5,Alabama,Lost Time,Night,Fabrication,"$1,152 ",Mon,4,2020
+57,57,13-Apr-20,Legs,Male,18-24,Slip/trip,0.0,Illinois,Near Miss,Day,Finishing,$0 ,Mon,4,2020
+58,58,14-Apr-20,Back,Male,50+,Burn,0.0,Texas,First Aid,Night,Purchasing,$173 ,Tue,4,2020
+59,59,14-Apr-20,Arms,Male,50+,Fall,0.0,Montana,Near Miss,Night,Finishing,$0 ,Tue,4,2020
+60,60,15-Apr-20,Back,Male,35-49,Falling object,1.5,Illinois,Lost Time,Afternoon,Shipping,"$4,731 ",Wed,4,2020
+61,61,16-Apr-20,Eye,Male,50+,Burn,0.0,Iowa,First Aid,Afternoon,Painting,$155 ,Thu,4,2020
+62,62,17-Apr-20,Abdomen,Male,25-34,Crush & Pinch,3.0,Georgia,Lost Time,Night,Administration,"$3,425 ",Fri,4,2020
+63,63,18-Apr-20,Neck,Male,25-34,Burn,0.0,Alabama,Near Miss,Night,Administration,$0 ,Sat,4,2020
+64,64,21-Apr-20,Arms,Male,18-24,Cut,3.0,California,Lost Time,Night,Fabrication,"$2,627 ",Tue,4,2020
+65,65,21-Apr-20,Head,Female,18-24,Vehicle,4.0,Texas,Lost Time,Afternoon,Shipping,"$3,680 ",Tue,4,2020
+66,66,22-Apr-20,Legs,Male,35-49,Vehicle,0.0,Iowa,First Aid,Day,Administration,$281 ,Wed,4,2020
+67,67,22-Apr-20,Legs,Male,18-24,Equipment,0.0,Iowa,Near Miss,Afternoon,Security,$0 ,Wed,4,2020
+68,68,24-Apr-20,Back,Male,18-24,Lifting,1.0,Montana,Lost Time,Day,Maintenance,"$3,954 ",Fri,4,2020
+69,69,25-Apr-20,Eye,Female,50+,Equipment,0.0,Montana,Near Miss,Day,Purchasing,$0 ,Sat,4,2020
+70,70,27-Apr-20,Trunk,Female,18-24,Slip/trip,0.0,California,Near Miss,Day,Purchasing,$0 ,Mon,4,2020
+71,71,2-May-20,Legs,Male,25-34,Lifting,0.0,Illinois,Medical Claim,Day,Maintenance,"$2,461 ",Sat,5,2020
+72,72,4-May-20,Head,Male,25-34,Cut,0.0,Illinois,Medical Claim,Day,Administration,"$3,851 ",Mon,5,2020
+73,73,5-May-20,Feet,Male,50+,Burn,0.0,Florida,First Aid,Night,Finishing,$224 ,Tue,5,2020
+74,74,7-May-20,Neck,Male,18-24,Lifting,4.0,Florida,Lost Time,Night,Finishing,"$3,969 ",Thu,5,2020
+75,75,8-May-20,Arms,Male,18-24,Burn,0.0,Alabama,First Aid,Night,Administration,$434 ,Fri,5,2020
+76,76,8-May-20,Neck,Male,50+,Crush & Pinch,1.0,Ohio,Lost Time,Night,Melting,"$1,173 ",Fri,5,2020
+77,77,9-May-20,Eye,Male,35-49,Fall,0.0,Alabama,First Aid,Afternoon,Maintenance,$236 ,Sat,5,2020
+78,78,10-May-20,Trunk,Male,35-49,Lifting,0.0,Iowa,Near Miss,Day,Administration,$0 ,Sun,5,2020
+79,79,10-May-20,Feet,Male,35-49,Crush & Pinch,1.5,Montana,Lost Time,Night,Maintenance,"$1,592 ",Sun,5,2020
+80,80,11-May-20,Abdomen,Male,50+,Slip/trip,0.0,Georgia,Near Miss,Night,Shipping,$0 ,Mon,5,2020
+81,81,13-May-20,Feet,Male,50+,Fall,0.0,Montana,Near Miss,Afternoon,Melting,$0 ,Wed,5,2020
+82,82,13-May-20,Neck,Male,35-49,Cut,0.0,Illinois,First Aid,Night,Maintenance,$457 ,Wed,5,2020
+83,83,17-May-20,,Male,35-49,Cut,0.0,Ohio,Near Miss,Day,Security,$0 ,Sun,5,2020
+84,84,17-May-20,Head,Male,18-24,Fall,0.0,Ohio,First Aid,Afternoon,Security,$247 ,Sun,5,2020
+85,85,19-May-20,Hands,Male,25-34,Crush & Pinch,0.0,Georgia,First Aid,Night,Administration,$457 ,Tue,5,2020
+86,86,21-May-20,Back,Male,35-49,Falling object,0.0,Illinois,Near Miss,Afternoon,Security,$0 ,Thu,5,2020
+87,87,22-May-20,Trunk,Male,35-49,Falling object,0.0,Ohio,First Aid,Day,Melting,$305 ,Fri,5,2020
+88,88,23-May-20,Neck,Male,50+,Lifting,0.0,Montana,Near Miss,Afternoon,Administration,$0 ,Sat,5,2020
+89,89,25-May-20,Head,Male,25-34,Crush & Pinch,0.5,Florida,Lost Time,Afternoon,Purchasing,"$2,468 ",Mon,5,2020
+90,90,26-May-20,Arms,Male,35-49,Burn,0.5,California,Lost Time,Afternoon,Finishing,$786 ,Tue,5,2020
+91,91,26-May-20,Eye,Male,18-24,Lifting,0.0,Alabama,Medical Claim,Day,Administration,"$2,481 ",Tue,5,2020
+92,92,29-May-20,Arms,Male,25-34,Burn,0.5,California,Lost Time,Day,Shipping,$674 ,Fri,5,2020
+93,93,31-May-20,Head,Male,50+,Crush & Pinch,0.0,Alabama,Near Miss,Night,Purchasing,$0 ,Sun,5,2020
+94,94,31-May-20,Legs,Male,35-49,Lifting,0.0,Alabama,Near Miss,Afternoon,Shipping,$0 ,Sun,5,2020
+95,95,2-Jun-20,Feet,Male,50+,Slip/trip,0.0,Georgia,Near Miss,Afternoon,Shipping,$0 ,Tue,6,2020
+96,96,7-Jun-20,Legs,Male,25-34,Equipment,0.0,Georgia,Near Miss,Night,Shipping,$0 ,Sun,6,2020
+97,97,10-Jun-20,Back,Male,18-24,Equipment,2.5,Ohio,Lost Time,Night,Shipping,"$2,370 ",Wed,6,2020
+98,98,11-Jun-20,Hands,Male,35-49,Falling object,0.0,California,Medical Claim,Night,Purchasing,"$1,121 ",Thu,6,2020
+99,99,12-Jun-20,Eye,Male,18-24,Slip/trip,0.0,California,Medical Claim,Day,Maintenance,"$3,269 ",Fri,6,2020
+100,100,15-Jun-20,Legs,Male,18-24,Lifting,0.0,Illinois,First Aid,Day,Painting,$249 ,Mon,6,2020
+101,101,15-Jun-20,Multiple,Male,18-24,Burn,0.0,Illinois,First Aid,Night,Shipping,$423 ,Mon,6,2020
+102,102,16-Jun-20,Feet,Male,18-24,Falling object,0.0,Georgia,Medical Claim,Day,Maintenance,"$3,397 ",Tue,6,2020
+103,103,19-Jun-20,Head,Female,25-34,Falling object,0.0,California,Medical Claim,Day,Fabrication,"$4,016 ",Fri,6,2020
+104,104,23-Jun-20,Hands,Male,25-34,Slip/trip,0.0,Montana,Medical Claim,Afternoon,Maintenance,"$2,387 ",Tue,6,2020
+105,105,26-Jun-20,Legs,Male,50+,Crush & Pinch,0.0,Iowa,Near Miss,Afternoon,Administration,$0 ,Fri,6,2020
+106,106,27-Jun-20,Back,Male,35-49,Slip/trip,0.0,Montana,Medical Claim,Afternoon,Shipping,"$4,292 ",Sat,6,2020
+107,107,28-Jun-20,Feet,Female,25-34,Equipment,2.0,Alabama,Lost Time,Day,Melting,"$1,635 ",Sun,6,2020
+108,108,30-Jun-20,Trunk,Male,18-24,Crush & Pinch,0.0,Florida,Near Miss,Night,Security,$0 ,Tue,6,2020
+109,109,30-Jun-20,Neck,Male,18-24,Slip/trip,5.0,Alabama,Lost Time,Day,Security,$603 ,Tue,6,2020
+110,110,1-Jul-20,Neck,Male,50+,Lifting,0.0,Alabama,Medical Claim,Afternoon,Finishing,"$1,335 ",Wed,7,2020
+111,111,6-Jul-20,,Female,50+,Equipment,0.0,Ohio,First Aid,Day,Melting,$250 ,Mon,7,2020
+112,112,6-Jul-20,Neck,Male,18-24,Burn,2.0,Illinois,Lost Time,Day,Security,"$3,203 ",Mon,7,2020
+113,113,7-Jul-20,Back,Male,25-34,Slip/trip,0.0,Illinois,Medical Claim,Day,Maintenance,"$4,246 ",Tue,7,2020
+114,114,10-Jul-20,Abdomen,Male,25-34,Crush & Pinch,0.0,Florida,Medical Claim,Afternoon,Melting,"$4,229 ",Fri,7,2020
+115,115,11-Jul-20,Arms,Male,18-24,Falling object,1.0,Alabama,Lost Time,Night,Administration,"$3,256 ",Sat,7,2020
+116,116,12-Jul-20,Trunk,Male,25-34,Cut,4.0,Iowa,Lost Time,Night,Finishing,"$2,861 ",Sun,7,2020
+117,117,12-Jul-20,Eye,Male,18-24,Slip/trip,0.0,Montana,First Aid,Night,Melting,$118 ,Sun,7,2020
+118,118,13-Jul-20,,Male,50+,Equipment,3.5,Ohio,Lost Time,Day,Maintenance,"$3,716 ",Mon,7,2020
+119,119,14-Jul-20,Abdomen,Male,18-24,Crush & Pinch,0.0,Montana,Near Miss,Day,Finishing,$0 ,Tue,7,2020
+120,120,16-Jul-20,Head,Male,35-49,Lifting,0.0,Alabama,Near Miss,Night,Maintenance,$0 ,Thu,7,2020
+121,121,18-Jul-20,Feet,Male,35-49,Cut,0.0,Iowa,Medical Claim,Night,Maintenance,$532 ,Sat,7,2020
+122,122,19-Jul-20,Back,Male,18-24,Equipment,0.0,Alabama,Near Miss,Night,Painting,$0 ,Sun,7,2020
+123,123,22-Jul-20,Trunk,Male,18-24,Lifting,0.0,Alabama,Near Miss,Day,Fabrication,$0 ,Wed,7,2020
+124,124,26-Jul-20,,Male,25-34,Equipment,5.0,Texas,Lost Time,Night,Melting,"$4,281 ",Sun,7,2020
+125,125,27-Jul-20,Head,Male,25-34,Burn,0.0,Montana,Medical Claim,Day,Melting,"$4,455 ",Mon,7,2020
+126,126,28-Jul-20,Head,Male,18-24,Equipment,0.0,California,Medical Claim,Night,Purchasing,"$4,444 ",Tue,7,2020
+127,127,28-Jul-20,,Male,50+,Equipment,2.0,California,Lost Time,Night,Security,"$2,777 ",Tue,7,2020
+128,128,30-Jul-20,Abdomen,Male,35-49,Lifting,3.0,Illinois,Lost Time,Night,Shipping,"$4,940 ",Thu,7,2020
+129,129,30-Jul-20,,Female,35-49,Falling object,0.0,Ohio,Near Miss,Night,Shipping,$0 ,Thu,7,2020
+130,130,1-Aug-20,Neck,Male,25-34,Crush & Pinch,0.0,Florida,Near Miss,Afternoon,Administration,$0 ,Sat,8,2020
+131,131,3-Aug-20,Multiple,Male,35-49,Slip/trip,0.0,Illinois,Medical Claim,Day,Painting,"$2,521 ",Mon,8,2020
+132,132,4-Aug-20,Back,Male,35-49,Falling object,0.0,Georgia,Medical Claim,Day,Maintenance,"$1,430 ",Tue,8,2020
+133,133,7-Aug-20,Trunk,Male,35-49,Equipment,5.0,Iowa,Lost Time,Afternoon,Fabrication,"$1,505 ",Fri,8,2020
+134,134,9-Aug-20,Feet,Male,35-49,Burn,0.0,Alabama,Medical Claim,Night,Maintenance,$921 ,Sun,8,2020
+135,135,9-Aug-20,Legs,Male,25-34,Equipment,0.0,Georgia,First Aid,Afternoon,Administration,$206 ,Sun,8,2020
+136,136,10-Aug-20,Trunk,Female,25-34,Slip/trip,0.0,Texas,Near Miss,Day,Melting,$0 ,Mon,8,2020
+137,137,11-Aug-20,Legs,Male,50+,Vehicle,0.0,Florida,Near Miss,Afternoon,Finishing,$0 ,Tue,8,2020
+138,138,12-Aug-20,Arms,Male,50+,Burn,0.0,California,Medical Claim,Afternoon,Fabrication,"$1,835 ",Wed,8,2020
+139,139,13-Aug-20,Feet,Male,35-49,Slip/trip,1.0,California,Lost Time,Afternoon,Administration,"$2,333 ",Thu,8,2020
+140,140,13-Aug-20,Trunk,Female,35-49,Cut,0.0,Montana,Near Miss,Afternoon,Maintenance,$0 ,Thu,8,2020
+141,141,13-Aug-20,Hands,Male,35-49,Fall,0.0,Georgia,Medical Claim,Afternoon,Fabrication,"$1,890 ",Thu,8,2020
+142,142,15-Aug-20,Back,Male,35-49,Lifting,0.0,Georgia,Medical Claim,Night,Security,"$1,951 ",Sat,8,2020
+143,143,21-Aug-20,Arms,Male,35-49,Falling object,5.0,Montana,Lost Time,Night,Administration,"$3,692 ",Fri,8,2020
+144,144,21-Aug-20,Trunk,Male,50+,Slip/trip,0.0,Iowa,First Aid,Night,Administration,$242 ,Fri,8,2020
+145,145,23-Aug-20,Hands,Female,35-49,Cut,0.0,Illinois,Near Miss,Night,Painting,$0 ,Sun,8,2020
+146,146,25-Aug-20,Legs,Male,25-34,Slip/trip,0.0,Montana,Near Miss,Day,Administration,$0 ,Tue,8,2020
+147,147,26-Aug-20,Abdomen,Male,35-49,Slip/trip,0.0,Florida,Medical Claim,Day,Shipping,$845 ,Wed,8,2020
+148,148,27-Aug-20,Eye,Male,18-24,Fall,0.0,Illinois,First Aid,Day,Administration,$395 ,Thu,8,2020
+149,149,27-Aug-20,Hands,Female,35-49,Lifting,0.0,California,First Aid,Afternoon,Maintenance,$88 ,Thu,8,2020
+150,150,30-Aug-20,Legs,Male,35-49,Cut,0.0,Alabama,Near Miss,Afternoon,Painting,$0 ,Sun,8,2020
+151,151,31-Aug-20,Hands,Female,18-24,Slip/trip,2.5,Ohio,Lost Time,Night,Finishing,"$3,488 ",Mon,8,2020
+152,152,5-Sep-20,,Female,25-34,Cut,0.0,Texas,First Aid,Day,Administration,$351 ,Sat,9,2020
+153,153,6-Sep-20,Arms,Male,50+,Fall,0.0,Alabama,First Aid,Night,Fabrication,$430 ,Sun,9,2020
+154,154,7-Sep-20,Abdomen,Male,35-49,Falling object,0.0,Illinois,Medical Claim,Day,Maintenance,"$4,871 ",Mon,9,2020
+155,155,11-Sep-20,Neck,Male,18-24,Fall,1.5,Illinois,Lost Time,Night,Security,"$1,230 ",Fri,9,2020
+156,156,13-Sep-20,Head,Male,50+,Fall,0.0,Ohio,Near Miss,Night,Melting,$0 ,Sun,9,2020
+157,157,14-Sep-20,Eye,Male,35-49,Cut,0.0,Montana,Medical Claim,Night,Fabrication,"$1,136 ",Mon,9,2020
+158,158,16-Sep-20,Feet,Female,35-49,Lifting,0.0,Texas,Medical Claim,Day,Fabrication,"$1,819 ",Wed,9,2020
+159,159,22-Sep-20,Feet,Male,25-34,Lifting,2.5,Georgia,Lost Time,Night,Finishing,$709 ,Tue,9,2020
+160,160,23-Sep-20,Legs,Male,18-24,Fall,0.0,Florida,First Aid,Afternoon,Finishing,$366 ,Wed,9,2020
+161,161,25-Sep-20,Feet,Male,35-49,Vehicle,0.0,Iowa,First Aid,Night,Administration,$133 ,Fri,9,2020
+162,162,27-Sep-20,Back,Male,50+,Lifting,0.0,Ohio,First Aid,Afternoon,Fabrication,$470 ,Sun,9,2020
+163,163,30-Sep-20,,Male,35-49,Cut,0.0,Georgia,Near Miss,Night,Shipping,$0 ,Wed,9,2020
+164,164,4-Oct-20,Feet,Male,35-49,Lifting,1.0,Montana,Lost Time,Day,Security,"$2,237 ",Sun,10,2020
+165,165,9-Oct-20,Arms,Male,50+,Burn,0.0,Florida,First Aid,Day,Maintenance,$58 ,Fri,10,2020
+166,166,11-Oct-20,Multiple,Male,35-49,Crush & Pinch,4.5,Iowa,Lost Time,Night,Fabrication,"$3,299 ",Sun,10,2020
+167,167,12-Oct-20,Trunk,Male,50+,Slip/trip,0.0,California,First Aid,Night,Fabrication,$369 ,Mon,10,2020
+168,168,12-Oct-20,Multiple,Male,18-24,Crush & Pinch,0.0,Georgia,First Aid,Day,Security,$229 ,Mon,10,2020
+169,169,13-Oct-20,,Male,25-34,Fall,2.5,Ohio,Lost Time,Day,Purchasing,"$1,731 ",Tue,10,2020
+170,170,13-Oct-20,,Male,35-49,Crush & Pinch,1.5,Florida,Lost Time,Afternoon,Fabrication,"$4,823 ",Tue,10,2020
+171,171,14-Oct-20,Abdomen,Male,25-34,Lifting,0.0,Georgia,First Aid,Night,Fabrication,$57 ,Wed,10,2020
+172,172,16-Oct-20,Neck,Male,35-49,Burn,0.0,Iowa,First Aid,Day,Shipping,$466 ,Fri,10,2020
+173,173,16-Oct-20,,Male,50+,Slip/trip,0.0,California,Near Miss,Night,Administration,$0 ,Fri,10,2020
+174,174,17-Oct-20,Legs,Male,25-34,Vehicle,0.0,California,Near Miss,Night,Painting,$0 ,Sat,10,2020
+175,175,19-Oct-20,Eye,Male,25-34,Falling object,0.0,Texas,Near Miss,Day,Security,$0 ,Mon,10,2020
+176,176,22-Oct-20,Hands,Male,25-34,Slip/trip,2.0,Iowa,Lost Time,Night,Fabrication,"$3,549 ",Thu,10,2020
+177,177,24-Oct-20,Hands,Male,50+,Equipment,0.0,Alabama,Medical Claim,Day,Fabrication,"$2,476 ",Sat,10,2020
+178,178,26-Oct-20,Head,Male,25-34,Burn,4.5,Texas,Lost Time,Night,Maintenance,"$1,935 ",Mon,10,2020
+179,179,27-Oct-20,Neck,Male,35-49,Equipment,0.0,Ohio,First Aid,Night,Finishing,$143 ,Tue,10,2020
+180,180,27-Oct-20,Multiple,Male,25-34,Lifting,3.0,Texas,Lost Time,Afternoon,Administration,"$2,397 ",Tue,10,2020
+181,181,30-Oct-20,Hands,Male,35-49,Falling object,1.5,Texas,Lost Time,Afternoon,Fabrication,"$4,618 ",Fri,10,2020
+182,182,7-Nov-20,Multiple,Male,35-49,Burn,0.0,Georgia,Medical Claim,Day,Finishing,"$3,849 ",Sat,11,2020
+183,183,11-Nov-20,Hands,Male,18-24,Fall,0.0,Illinois,Medical Claim,Afternoon,Finishing,$588 ,Wed,11,2020
+184,184,12-Nov-20,Arms,Male,18-24,Cut,0.0,Texas,Near Miss,Afternoon,Finishing,$0 ,Thu,11,2020
+185,185,15-Nov-20,Trunk,Male,35-49,Equipment,4.5,Texas,Lost Time,Night,Fabrication,"$4,411 ",Sun,11,2020
+186,186,16-Nov-20,Neck,Male,50+,Slip/trip,0.0,Texas,Near Miss,Day,Painting,$0 ,Mon,11,2020
+187,187,18-Nov-20,Multiple,Male,50+,Vehicle,0.0,California,Near Miss,Day,Maintenance,$0 ,Wed,11,2020
+188,188,19-Nov-20,Legs,Male,35-49,Fall,0.0,Texas,First Aid,Afternoon,Shipping,$282 ,Thu,11,2020
+189,189,20-Nov-20,Back,Female,35-49,Burn,0.0,California,First Aid,Night,Finishing,$244 ,Fri,11,2020
+190,190,22-Nov-20,Multiple,Male,35-49,Slip/trip,0.0,Ohio,First Aid,Day,Painting,$278 ,Sun,11,2020
+191,191,22-Nov-20,Abdomen,Female,25-34,Falling object,5.0,California,Lost Time,Day,Fabrication,"$4,879 ",Sun,11,2020
+192,192,24-Nov-20,Back,Female,18-24,Lifting,0.0,Illinois,First Aid,Night,Maintenance,$414 ,Tue,11,2020
+193,193,25-Nov-20,Abdomen,Female,25-34,Burn,5.0,Montana,Lost Time,Day,Shipping,"$2,569 ",Wed,11,2020
+194,194,29-Nov-20,Abdomen,Male,35-49,Cut,0.0,Montana,Near Miss,Day,Security,$0 ,Sun,11,2020
+195,195,30-Nov-20,Head,Male,25-34,Vehicle,0.0,Florida,Medical Claim,Day,Painting,"$4,685 ",Mon,11,2020
+196,196,30-Nov-20,,Male,25-34,Burn,0.0,Iowa,Medical Claim,Day,Melting,"$1,222 ",Mon,11,2020
+197,197,1-Dec-20,Legs,Male,25-34,Slip/trip,3.5,Ohio,Lost Time,Night,Shipping,"$1,806 ",Tue,12,2020
+198,198,3-Dec-20,Head,Male,50+,Equipment,0.0,California,Near Miss,Day,Purchasing,$0 ,Thu,12,2020
+199,199,4-Dec-20,Arms,Female,25-34,Burn,1.0,Georgia,Lost Time,Afternoon,Maintenance,"$2,877 ",Fri,12,2020
+200,200,4-Dec-20,,Male,25-34,Cut,0.0,Ohio,Medical Claim,Afternoon,Maintenance,"$1,710 ",Fri,12,2020
+201,201,4-Dec-20,Hands,Male,25-34,Fall,0.0,Texas,Near Miss,Afternoon,Fabrication,$0 ,Fri,12,2020
+202,202,6-Dec-20,Feet,Male,18-24,Falling object,2.5,California,Lost Time,Afternoon,Shipping,$903 ,Sun,12,2020
+203,203,8-Dec-20,Eye,Male,18-24,Burn,0.0,Florida,First Aid,Afternoon,Painting,$115 ,Tue,12,2020
+204,204,8-Dec-20,Feet,Male,50+,Equipment,0.0,Georgia,Medical Claim,Day,Shipping,"$1,168 ",Tue,12,2020
+205,205,9-Dec-20,Back,Male,18-24,Equipment,5.0,Texas,Lost Time,Night,Melting,"$2,479 ",Wed,12,2020
+206,206,10-Dec-20,Multiple,Male,18-24,Fall,0.0,Ohio,Near Miss,Day,Painting,$0 ,Thu,12,2020
+207,207,11-Dec-20,Head,Male,18-24,Slip/trip,0.0,Florida,First Aid,Afternoon,Shipping,$361 ,Fri,12,2020
+208,208,12-Dec-20,Abdomen,Male,50+,Equipment,0.0,Iowa,Medical Claim,Afternoon,Maintenance,"$4,176 ",Sat,12,2020
+209,209,16-Dec-20,Feet,Male,35-49,Burn,3.0,Montana,Lost Time,Afternoon,Security,"$3,846 ",Wed,12,2020
+210,210,18-Dec-20,Abdomen,Male,35-49,Crush & Pinch,0.0,Alabama,Medical Claim,Afternoon,Melting,"$4,288 ",Fri,12,2020
+211,211,23-Dec-20,Back,Male,25-34,Fall,2.5,Illinois,Lost Time,Night,Security,"$3,734 ",Wed,12,2020
+212,212,23-Dec-20,Multiple,Male,18-24,Falling object,0.0,Ohio,Near Miss,Afternoon,Painting,$0 ,Wed,12,2020
+213,213,24-Dec-20,Hands,Male,25-34,Fall,0.0,Illinois,Near Miss,Night,Finishing,$0 ,Thu,12,2020
+214,214,25-Dec-20,Back,Male,35-49,Cut,2.5,Illinois,Lost Time,Afternoon,Fabrication,"$1,486 ",Fri,12,2020
+215,215,25-Dec-20,Legs,Male,25-34,Fall,0.0,Alabama,Near Miss,Night,Security,$0 ,Fri,12,2020
+216,216,27-Dec-20,Eye,Male,25-34,Falling object,0.0,Georgia,Medical Claim,Day,Security,$733 ,Sun,12,2020
+217,217,27-Dec-20,Legs,Male,25-34,Burn,0.0,Illinois,First Aid,Day,Security,$265 ,Sun,12,2020
+218,218,30-Dec-20,Trunk,Male,50+,Burn,0.0,Ohio,Medical Claim,Afternoon,Purchasing,"$5,000 ",Wed,12,2020
+219,219,30-Dec-20,Trunk,Male,18-24,Fall,0.0,Montana,Medical Claim,Day,Finishing,"$4,366 ",Wed,12,2020
+220,220,31-Dec-20,Abdomen,Male,25-34,Burn,2.0,Florida,Lost Time,Day,Finishing,"$3,060 ",Thu,12,2020
+221,221,3-Jan-21,Arms,Female,50+,Crush & Pinch,0.0,Alabama,Medical Claim,Afternoon,Finishing,$503 ,Sun,1,2021
+222,222,3-Jan-21,Abdomen,Female,25-34,Crush & Pinch,0.0,Georgia,Medical Claim,Afternoon,Painting,"$3,846 ",Sun,1,2021
+223,223,6-Jan-21,Arms,Male,35-49,Vehicle,0.0,Florida,Medical Claim,Day,Fabrication,"$1,690 ",Wed,1,2021
+224,224,7-Jan-21,Arms,Male,35-49,Cut,0.0,Iowa,Medical Claim,Afternoon,Finishing,"$1,010 ",Thu,1,2021
+225,225,8-Jan-21,Trunk,Male,50+,Falling object,0.0,Florida,Near Miss,Afternoon,Painting,$0 ,Fri,1,2021
+226,226,8-Jan-21,Back,Male,35-49,Slip/trip,0.0,Illinois,Near Miss,Night,Maintenance,$0 ,Fri,1,2021
+227,227,8-Jan-21,Legs,Male,25-34,Lifting,4.0,Texas,Lost Time,Afternoon,Administration,"$1,190 ",Fri,1,2021
+228,228,11-Jan-21,Trunk,Male,25-34,Fall,0.0,Florida,Medical Claim,Day,Administration,"$2,459 ",Mon,1,2021
+229,229,13-Jan-21,,Male,25-34,Falling object,1.5,Florida,Lost Time,Night,Shipping,$995 ,Wed,1,2021
+230,230,16-Jan-21,Back,Male,25-34,Crush & Pinch,2.0,Alabama,Lost Time,Day,Administration,"$2,593 ",Sat,1,2021
+231,231,19-Jan-21,Trunk,Male,50+,Lifting,0.0,Florida,Near Miss,Day,Administration,$0 ,Tue,1,2021
+232,232,23-Jan-21,Neck,Male,18-24,Falling object,0.0,Iowa,First Aid,Afternoon,Painting,$8 ,Sat,1,2021
+233,233,25-Jan-21,Head,Male,50+,Vehicle,0.0,Iowa,Medical Claim,Day,Melting,"$4,259 ",Mon,1,2021
+234,234,26-Jan-21,Trunk,Male,35-49,Burn,0.0,Texas,Medical Claim,Night,Administration,"$2,582 ",Tue,1,2021
+235,235,27-Jan-21,Legs,Male,25-34,Fall,0.0,Iowa,First Aid,Night,Shipping,$66 ,Wed,1,2021
+236,236,2-Feb-21,,Male,50+,Fall,0.5,Illinois,Lost Time,Day,Purchasing,"$2,437 ",Tue,2,2021
+237,237,2-Feb-21,Back,Female,50+,Vehicle,0.0,Alabama,Near Miss,Day,Painting,$0 ,Tue,2,2021
+238,238,3-Feb-21,Arms,Male,18-24,Slip/trip,0.0,Illinois,Medical Claim,Day,Painting,"$2,359 ",Wed,2,2021
+239,239,7-Feb-21,Neck,Male,50+,Burn,0.0,Ohio,Medical Claim,Night,Painting,$653 ,Sun,2,2021
+240,240,11-Feb-21,Legs,Male,35-49,Cut,0.0,Iowa,Medical Claim,Afternoon,Painting,"$3,487 ",Thu,2,2021
+241,241,11-Feb-21,Feet,Male,35-49,Falling object,0.0,California,First Aid,Afternoon,Melting,$67 ,Thu,2,2021
+242,242,13-Feb-21,Neck,Male,50+,Crush & Pinch,2.5,Alabama,Lost Time,Night,Shipping,"$1,922 ",Sat,2,2021
+243,243,14-Feb-21,Trunk,Male,18-24,Fall,0.0,Montana,Medical Claim,Night,Painting,"$4,247 ",Sun,2,2021
+244,244,15-Feb-21,Feet,Male,50+,Fall,0.0,Illinois,Near Miss,Night,Fabrication,$0 ,Mon,2,2021
+245,245,18-Feb-21,Trunk,Male,18-24,Fall,0.0,Illinois,Near Miss,Night,Melting,$0 ,Thu,2,2021
+246,246,18-Feb-21,Neck,Female,25-34,Slip/trip,0.0,Florida,Near Miss,Night,Shipping,$0 ,Thu,2,2021
+247,247,19-Feb-21,Multiple,Male,18-24,Crush & Pinch,0.0,California,First Aid,Night,Fabrication,$189 ,Fri,2,2021
+248,248,21-Feb-21,Multiple,Male,25-34,Vehicle,0.0,Texas,Near Miss,Night,Finishing,$0 ,Sun,2,2021
+249,249,24-Feb-21,Trunk,Male,35-49,Lifting,0.0,Ohio,Near Miss,Afternoon,Purchasing,$0 ,Wed,2,2021
+250,250,26-Feb-21,Arms,Male,18-24,Slip/trip,0.0,Montana,Medical Claim,Day,Security,"$2,801 ",Fri,2,2021
+251,251,28-Feb-21,Back,Male,18-24,Slip/trip,0.0,Iowa,Near Miss,Afternoon,Purchasing,$0 ,Sun,2,2021
+252,252,1-Mar-21,Arms,Male,50+,Lifting,0.0,Illinois,Near Miss,Day,Purchasing,$0 ,Mon,3,2021
+253,253,2-Mar-21,Abdomen,Male,18-24,Equipment,0.0,Texas,Near Miss,Afternoon,Finishing,$0 ,Tue,3,2021
+254,254,4-Mar-21,Multiple,Male,25-34,Slip/trip,0.0,Florida,First Aid,Afternoon,Maintenance,$382 ,Thu,3,2021
+255,255,5-Mar-21,Back,Male,25-34,Cut,1.5,Florida,Lost Time,Afternoon,Security,"$1,177 ",Fri,3,2021
+256,256,5-Mar-21,Arms,Male,25-34,Equipment,0.0,Iowa,First Aid,Night,Finishing,$308 ,Fri,3,2021
+257,257,11-Mar-21,Legs,Female,35-49,Equipment,0.0,California,First Aid,Night,Painting,$84 ,Thu,3,2021
+258,258,12-Mar-21,Back,Male,18-24,Slip/trip,0.0,Texas,Medical Claim,Night,Maintenance,$501 ,Fri,3,2021
+259,259,14-Mar-21,,Male,25-34,Slip/trip,0.0,Illinois,Medical Claim,Day,Purchasing,"$4,587 ",Sun,3,2021
+260,260,14-Mar-21,Neck,Male,25-34,Fall,0.0,Georgia,Near Miss,Afternoon,Painting,$0 ,Sun,3,2021
+261,261,15-Mar-21,Arms,Male,18-24,Vehicle,0.0,Illinois,Medical Claim,Night,Security,"$3,871 ",Mon,3,2021
+262,262,17-Mar-21,Abdomen,Male,35-49,Burn,1.5,Ohio,Lost Time,Afternoon,Maintenance,"$4,781 ",Wed,3,2021
+263,263,17-Mar-21,Feet,Female,25-34,Burn,5.0,Iowa,Lost Time,Day,Maintenance,"$4,373 ",Wed,3,2021
+264,264,18-Mar-21,Head,Male,25-34,Slip/trip,0.5,Montana,Lost Time,Afternoon,Shipping,"$2,854 ",Thu,3,2021
+265,265,19-Mar-21,Feet,Female,25-34,Equipment,0.0,Alabama,First Aid,Afternoon,Melting,$217 ,Fri,3,2021
+266,266,22-Mar-21,Legs,Male,50+,Burn,0.0,Texas,Medical Claim,Night,Melting,$804 ,Mon,3,2021
+267,267,23-Mar-21,Feet,Male,50+,Lifting,0.0,Illinois,Medical Claim,Afternoon,Finishing,$668 ,Tue,3,2021
+268,268,31-Mar-21,Neck,Male,35-49,Falling object,0.0,Texas,Near Miss,Day,Administration,$0 ,Wed,3,2021
+269,269,31-Mar-21,Eye,Female,18-24,Vehicle,5.0,Ohio,Lost Time,Night,Melting,"$1,993 ",Wed,3,2021
+270,270,1-Apr-21,Back,Male,25-34,Vehicle,0.0,Alabama,Medical Claim,Night,Fabrication,"$4,836 ",Thu,4,2021
+271,271,1-Apr-21,Eye,Male,25-34,Crush & Pinch,0.0,Illinois,Near Miss,Day,Shipping,$0 ,Thu,4,2021
+272,272,2-Apr-21,Back,Female,25-34,Slip/trip,0.0,Ohio,First Aid,Night,Administration,$342 ,Fri,4,2021
+273,273,6-Apr-21,,Male,50+,Equipment,5.0,Illinois,Lost Time,Day,Fabrication,"$2,468 ",Tue,4,2021
+274,274,8-Apr-21,Arms,Male,25-34,Cut,0.0,Iowa,Medical Claim,Night,Fabrication,"$2,990 ",Thu,4,2021
+275,275,9-Apr-21,,Male,50+,Lifting,0.0,Texas,Medical Claim,Day,Security,"$4,570 ",Fri,4,2021
+276,276,11-Apr-21,Arms,Male,35-49,Equipment,0.0,Illinois,Medical Claim,Night,Finishing,"$2,022 ",Sun,4,2021
+277,277,13-Apr-21,Head,Male,50+,Vehicle,4.0,Georgia,Lost Time,Afternoon,Melting,"$2,705 ",Tue,4,2021
+278,278,14-Apr-21,Trunk,Male,50+,Vehicle,2.5,Illinois,Lost Time,Afternoon,Security,$819 ,Wed,4,2021
+279,279,15-Apr-21,Eye,Female,25-34,Burn,0.0,Illinois,Near Miss,Night,Administration,$0 ,Thu,4,2021
+280,280,16-Apr-21,Abdomen,Male,50+,Cut,0.0,California,First Aid,Night,Purchasing,$37 ,Fri,4,2021
+281,281,17-Apr-21,Legs,Male,35-49,Lifting,0.0,Alabama,Medical Claim,Night,Administration,"$4,741 ",Sat,4,2021
+282,282,20-Apr-21,Hands,Male,25-34,Cut,0.0,Texas,Medical Claim,Day,Purchasing,"$2,063 ",Tue,4,2021
+283,283,20-Apr-21,,Male,50+,Crush & Pinch,0.0,Iowa,First Aid,Day,Painting,$359 ,Tue,4,2021
+284,284,21-Apr-21,Multiple,Male,35-49,Falling object,5.0,Montana,Lost Time,Day,Melting,"$1,119 ",Wed,4,2021
+285,285,24-Apr-21,Hands,Male,18-24,Cut,3.0,Florida,Lost Time,Day,Purchasing,"$2,851 ",Sat,4,2021
+286,286,25-Apr-21,Arms,Male,50+,Falling object,0.0,Montana,Near Miss,Night,Purchasing,$0 ,Sun,4,2021
+287,287,1-May-21,Back,Male,35-49,Burn,0.0,Texas,Medical Claim,Afternoon,Painting,"$1,872 ",Sat,5,2021
+288,288,4-May-21,Legs,Male,25-34,Fall,3.0,Alabama,Lost Time,Day,Purchasing,"$4,303 ",Tue,5,2021
+289,289,6-May-21,Multiple,Male,25-34,Burn,0.0,Iowa,Medical Claim,Afternoon,Melting,"$1,884 ",Thu,5,2021
+290,290,7-May-21,Arms,Male,25-34,Cut,0.5,Georgia,Lost Time,Day,Administration,"$1,084 ",Fri,5,2021
+291,291,8-May-21,Trunk,Male,35-49,Falling object,0.0,Ohio,Near Miss,Day,Security,$0 ,Sat,5,2021
+292,292,8-May-21,Hands,Male,18-24,Falling object,0.0,Georgia,First Aid,Night,Maintenance,$152 ,Sat,5,2021
+293,293,10-May-21,Arms,Male,25-34,Cut,0.0,Montana,Near Miss,Afternoon,Melting,$0 ,Mon,5,2021
+294,294,12-May-21,Multiple,Male,25-34,Vehicle,0.0,Ohio,Near Miss,Afternoon,Purchasing,$0 ,Wed,5,2021
+295,295,19-May-21,Feet,Female,18-24,Equipment,0.0,Montana,Medical Claim,Afternoon,Shipping,"$3,286 ",Wed,5,2021
+296,296,19-May-21,Abdomen,Male,25-34,Falling object,0.0,California,Near Miss,Day,Melting,$0 ,Wed,5,2021
+297,297,20-May-21,Head,Male,35-49,Vehicle,0.0,Iowa,Near Miss,Afternoon,Painting,$0 ,Thu,5,2021
+298,298,20-May-21,Trunk,Male,25-34,Fall,0.0,Georgia,First Aid,Night,Administration,$60 ,Thu,5,2021
+299,299,24-May-21,Head,Female,50+,Burn,0.0,Montana,Near Miss,Afternoon,Administration,$0 ,Mon,5,2021
+300,300,26-May-21,Feet,Male,18-24,Fall,0.0,Montana,Near Miss,Afternoon,Painting,$0 ,Wed,5,2021
+301,301,26-May-21,Feet,Male,50+,Cut,0.0,Ohio,Medical Claim,Night,Security,"$4,213 ",Wed,5,2021
+302,302,29-May-21,Neck,Male,25-34,Crush & Pinch,1.0,Iowa,Lost Time,Afternoon,Finishing,"$3,657 ",Sat,5,2021
+303,303,30-May-21,Feet,Male,35-49,Vehicle,0.0,California,First Aid,Afternoon,Melting,$442 ,Sun,5,2021
+304,304,1-Jun-21,Trunk,Male,50+,Cut,0.0,Georgia,Near Miss,Day,Security,$0 ,Tue,6,2021
+305,305,1-Jun-21,Neck,Male,25-34,Vehicle,0.0,Ohio,Near Miss,Day,Fabrication,$0 ,Tue,6,2021
+306,306,2-Jun-21,Hands,Male,25-34,Fall,0.0,Florida,Medical Claim,Night,Melting,$882 ,Wed,6,2021
+307,307,2-Jun-21,Feet,Male,25-34,Lifting,0.0,California,Near Miss,Afternoon,Purchasing,$0 ,Wed,6,2021
+308,308,3-Jun-21,Abdomen,Female,18-24,Vehicle,3.0,California,Lost Time,Afternoon,Security,$498 ,Thu,6,2021
+309,309,3-Jun-21,Multiple,Male,50+,Equipment,4.5,Texas,Lost Time,Afternoon,Painting,"$3,170 ",Thu,6,2021
+310,310,6-Jun-21,Legs,Male,25-34,Burn,0.0,Florida,Medical Claim,Day,Painting,"$4,260 ",Sun,6,2021
+311,311,7-Jun-21,Eye,Male,50+,Fall,0.0,Illinois,First Aid,Day,Shipping,$107 ,Mon,6,2021
+312,312,8-Jun-21,Arms,Male,18-24,Falling object,0.0,Alabama,Near Miss,Afternoon,Finishing,$0 ,Tue,6,2021
+313,313,8-Jun-21,,Male,50+,Equipment,0.0,Texas,First Aid,Night,Painting,$152 ,Tue,6,2021
+314,314,12-Jun-21,Back,Male,35-49,Burn,4.5,Texas,Lost Time,Night,Purchasing,"$2,651 ",Sat,6,2021
+315,315,12-Jun-21,Head,Male,18-24,Cut,0.0,Texas,First Aid,Afternoon,Melting,$491 ,Sat,6,2021
+316,316,13-Jun-21,Trunk,Male,50+,Vehicle,0.0,Texas,Near Miss,Afternoon,Maintenance,$0 ,Sun,6,2021
+317,317,15-Jun-21,Back,Male,18-24,Fall,2.0,California,Lost Time,Night,Administration,$674 ,Tue,6,2021
+318,318,17-Jun-21,Abdomen,Male,18-24,Burn,0.0,Texas,Medical Claim,Night,Melting,$718 ,Thu,6,2021
+319,319,18-Jun-21,Eye,Male,35-49,Cut,1.5,Texas,Lost Time,Afternoon,Maintenance,"$1,698 ",Fri,6,2021
+320,320,18-Jun-21,Multiple,Male,25-34,Burn,0.0,Montana,Medical Claim,Day,Painting,"$4,664 ",Fri,6,2021
+321,321,18-Jun-21,Back,Male,25-34,Crush & Pinch,4.5,Florida,Lost Time,Night,Security,"$1,694 ",Fri,6,2021
+322,322,19-Jun-21,Hands,Male,50+,Lifting,0.0,Georgia,Medical Claim,Night,Maintenance,$522 ,Sat,6,2021
+323,323,21-Jun-21,Legs,Male,35-49,Falling object,0.0,Georgia,Medical Claim,Day,Finishing,"$3,221 ",Mon,6,2021
+324,324,23-Jun-21,Arms,Male,18-24,Lifting,0.0,Georgia,Near Miss,Day,Painting,$0 ,Wed,6,2021
+325,325,25-Jun-21,Abdomen,Male,50+,Burn,0.0,Alabama,Near Miss,Day,Painting,$0 ,Fri,6,2021
+326,326,26-Jun-21,Eye,Male,18-24,Fall,0.0,Georgia,First Aid,Night,Finishing,$383 ,Sat,6,2021
+327,327,27-Jun-21,Eye,Male,25-34,Falling object,4.5,Georgia,Lost Time,Day,Shipping,"$3,588 ",Sun,6,2021
+328,328,28-Jun-21,Head,Male,35-49,Vehicle,0.0,Ohio,First Aid,Day,Fabrication,$119 ,Mon,6,2021
+329,329,29-Jun-21,Arms,Male,25-34,Lifting,0.0,Iowa,Near Miss,Day,Painting,$0 ,Tue,6,2021
+330,330,4-Jul-21,Trunk,Male,25-34,Falling object,0.0,Illinois,First Aid,Night,Administration,$88 ,Sun,7,2021
+331,331,6-Jul-21,Head,Male,18-24,Fall,0.0,Alabama,First Aid,Day,Maintenance,$373 ,Tue,7,2021
+332,332,7-Jul-21,Head,Male,35-49,Lifting,0.0,Illinois,Medical Claim,Day,Shipping,"$4,905 ",Wed,7,2021
+333,333,8-Jul-21,Abdomen,Male,50+,Crush & Pinch,4.5,Ohio,Lost Time,Afternoon,Maintenance,$738 ,Thu,7,2021
+334,334,8-Jul-21,Back,Male,25-34,Fall,0.0,Montana,Medical Claim,Day,Painting,"$2,450 ",Thu,7,2021
+335,335,11-Jul-21,Multiple,Male,25-34,Burn,0.0,Florida,First Aid,Night,Maintenance,$321 ,Sun,7,2021
+336,336,12-Jul-21,Abdomen,Male,18-24,Burn,0.0,Georgia,Near Miss,Day,Painting,$0 ,Mon,7,2021
+337,337,13-Jul-21,Trunk,Male,35-49,Vehicle,3.5,California,Lost Time,Night,Finishing,"$2,466 ",Tue,7,2021
+338,338,19-Jul-21,Feet,Male,50+,Falling object,0.0,Montana,Near Miss,Afternoon,Administration,$0 ,Mon,7,2021
+339,339,20-Jul-21,Back,Male,18-24,Crush & Pinch,0.0,Montana,Medical Claim,Night,Melting,"$2,514 ",Tue,7,2021
+340,340,21-Jul-21,Hands,Male,50+,Crush & Pinch,1.0,Iowa,Lost Time,Day,Administration,"$3,959 ",Wed,7,2021
+341,341,22-Jul-21,Multiple,Male,25-34,Fall,0.0,Ohio,Medical Claim,Afternoon,Melting,"$4,530 ",Thu,7,2021
+342,342,25-Jul-21,Hands,Male,25-34,Equipment,1.5,Alabama,Lost Time,Day,Security,"$1,241 ",Sun,7,2021
+343,343,25-Jul-21,Head,Male,25-34,Lifting,1.0,Ohio,Lost Time,Night,Fabrication,"$1,301 ",Sun,7,2021
+344,344,31-Jul-21,Abdomen,Male,35-49,Equipment,0.0,Georgia,First Aid,Day,Security,$140 ,Sat,7,2021
+345,345,2-Aug-21,Arms,Male,25-34,Vehicle,0.0,Montana,Medical Claim,Day,Maintenance,$634 ,Mon,8,2021
+346,346,3-Aug-21,Abdomen,Male,25-34,Slip/trip,0.0,Montana,Medical Claim,Afternoon,Finishing,"$3,204 ",Tue,8,2021
+347,347,7-Aug-21,Arms,Male,35-49,Falling object,0.0,California,First Aid,Afternoon,Melting,$453 ,Sat,8,2021
+348,348,7-Aug-21,Neck,Male,25-34,Falling object,3.0,Ohio,Lost Time,Afternoon,Fabrication,"$2,937 ",Sat,8,2021
+349,349,10-Aug-21,,Male,50+,Cut,0.0,Florida,Near Miss,Day,Administration,$0 ,Tue,8,2021
+350,350,12-Aug-21,Trunk,Male,18-24,Falling object,0.0,Ohio,Near Miss,Night,Fabrication,$0 ,Thu,8,2021
+351,351,13-Aug-21,Abdomen,Male,18-24,Equipment,0.0,Ohio,First Aid,Afternoon,Security,$53 ,Fri,8,2021
+352,352,16-Aug-21,Hands,Male,35-49,Vehicle,2.0,Florida,Lost Time,Day,Security,"$4,160 ",Mon,8,2021
+353,353,18-Aug-21,Trunk,Male,35-49,Cut,4.5,Georgia,Lost Time,Night,Shipping,"$2,988 ",Wed,8,2021
+354,354,19-Aug-21,Head,Female,18-24,Slip/trip,0.0,Texas,Near Miss,Day,Painting,$0 ,Thu,8,2021
+355,355,21-Aug-21,Abdomen,Male,25-34,Crush & Pinch,3.5,Alabama,Lost Time,Afternoon,Painting,"$1,155 ",Sat,8,2021
+356,356,22-Aug-21,Legs,Male,25-34,Fall,0.0,Ohio,Near Miss,Night,Melting,$0 ,Sun,8,2021
+357,357,22-Aug-21,Back,Male,50+,Vehicle,2.0,Illinois,Lost Time,Day,Security,"$1,902 ",Sun,8,2021
+358,358,22-Aug-21,Arms,Male,35-49,Vehicle,0.0,Illinois,Near Miss,Afternoon,Maintenance,$0 ,Sun,8,2021
+359,359,23-Aug-21,Eye,Male,25-34,Burn,2.5,Georgia,Lost Time,Day,Security,"$3,817 ",Mon,8,2021
+360,360,24-Aug-21,Head,Female,35-49,Burn,0.0,Texas,Near Miss,Afternoon,Maintenance,$0 ,Tue,8,2021
+361,361,29-Aug-21,Multiple,Male,25-34,Lifting,0.0,Georgia,Near Miss,Afternoon,Melting,$0 ,Sun,8,2021
+362,362,29-Aug-21,Multiple,Male,35-49,Equipment,0.0,Illinois,First Aid,Afternoon,Finishing,$302 ,Sun,8,2021
+363,363,1-Sep-21,Arms,Male,18-24,Cut,0.0,Ohio,First Aid,Day,Security,$95 ,Wed,9,2021
+364,364,3-Sep-21,Eye,Male,25-34,Cut,0.0,Georgia,Medical Claim,Afternoon,Shipping,"$4,834 ",Fri,9,2021
+365,365,3-Sep-21,Multiple,Male,25-34,Falling object,0.0,Iowa,Near Miss,Day,Fabrication,$0 ,Fri,9,2021
+366,366,6-Sep-21,Legs,Female,50+,Falling object,0.0,Texas,Medical Claim,Day,Finishing,"$1,433 ",Mon,9,2021
+367,367,10-Sep-21,Feet,Male,35-49,Falling object,0.0,Illinois,Near Miss,Day,Maintenance,$0 ,Fri,9,2021
+368,368,11-Sep-21,Back,Male,35-49,Burn,0.0,Montana,First Aid,Afternoon,Finishing,$159 ,Sat,9,2021
+369,369,15-Sep-21,Eye,Male,18-24,Equipment,0.0,Illinois,Near Miss,Night,Security,$0 ,Wed,9,2021
+370,370,17-Sep-21,Legs,Male,50+,Crush & Pinch,4.0,Georgia,Lost Time,Night,Purchasing,"$4,771 ",Fri,9,2021
+371,371,18-Sep-21,Trunk,Male,18-24,Slip/trip,3.5,Georgia,Lost Time,Day,Shipping,"$3,378 ",Sat,9,2021
+372,372,19-Sep-21,Head,Male,18-24,Lifting,0.0,Georgia,Medical Claim,Day,Shipping,"$3,713 ",Sun,9,2021
+373,373,20-Sep-21,Abdomen,Male,25-34,Falling object,0.0,Florida,Near Miss,Night,Shipping,$0 ,Mon,9,2021
+374,374,24-Sep-21,Abdomen,Male,50+,Cut,0.0,Texas,Medical Claim,Day,Shipping,"$4,994 ",Fri,9,2021
+375,375,28-Sep-21,Hands,Female,50+,Cut,0.0,California,First Aid,Night,Purchasing,$238 ,Tue,9,2021
+376,376,29-Sep-21,Legs,Male,35-49,Vehicle,0.0,Georgia,First Aid,Afternoon,Purchasing,$209 ,Wed,9,2021
+377,377,1-Oct-21,Trunk,Male,25-34,Falling object,0.0,Alabama,Medical Claim,Afternoon,Painting,"$2,120 ",Fri,10,2021
+378,378,1-Oct-21,Multiple,Female,25-34,Vehicle,0.0,Montana,Near Miss,Afternoon,Painting,$0 ,Fri,10,2021
+379,379,5-Oct-21,Feet,Male,25-34,Vehicle,1.0,Florida,Lost Time,Day,Fabrication,"$2,245 ",Tue,10,2021
+380,380,10-Oct-21,Head,Male,18-24,Crush & Pinch,0.0,California,First Aid,Afternoon,Purchasing,$118 ,Sun,10,2021
+381,381,13-Oct-21,Feet,Male,18-24,Falling object,0.0,Florida,Medical Claim,Afternoon,Melting,$534 ,Wed,10,2021
+382,382,14-Oct-21,Hands,Male,35-49,Lifting,0.0,Montana,Near Miss,Afternoon,Melting,$0 ,Thu,10,2021
+383,383,14-Oct-21,Multiple,Male,25-34,Crush & Pinch,0.0,Texas,First Aid,Day,Melting,$420 ,Thu,10,2021
+384,384,15-Oct-21,,Female,50+,Equipment,4.0,Texas,Lost Time,Afternoon,Painting,"$2,622 ",Fri,10,2021
+385,385,16-Oct-21,Trunk,Male,35-49,Vehicle,3.5,California,Lost Time,Day,Melting,"$1,213 ",Sat,10,2021
+386,386,17-Oct-21,Legs,Male,35-49,Cut,0.0,Montana,Near Miss,Afternoon,Security,$0 ,Sun,10,2021
+387,387,19-Oct-21,Legs,Male,25-34,Fall,0.0,Montana,First Aid,Day,Security,$65 ,Tue,10,2021
+388,388,19-Oct-21,Legs,Male,35-49,Cut,0.0,Montana,Medical Claim,Night,Shipping,"$2,860 ",Tue,10,2021
+389,389,23-Oct-21,Neck,Male,25-34,Lifting,0.0,Iowa,First Aid,Day,Shipping,$129 ,Sat,10,2021
+390,390,23-Oct-21,Feet,Male,18-24,Lifting,0.0,Texas,Medical Claim,Day,Finishing,"$4,698 ",Sat,10,2021
+391,391,26-Oct-21,Multiple,Male,35-49,Fall,0.0,California,Near Miss,Day,Shipping,$0 ,Tue,10,2021
+392,392,28-Oct-21,Trunk,Male,35-49,Lifting,0.0,Illinois,First Aid,Day,Security,$36 ,Thu,10,2021
+393,393,30-Oct-21,Head,Male,50+,Cut,0.0,Illinois,Near Miss,Day,Shipping,$0 ,Sat,10,2021
+394,394,2-Nov-21,Abdomen,Male,50+,Cut,0.0,Florida,Near Miss,Day,Shipping,$0 ,Tue,11,2021
+395,395,6-Nov-21,Neck,Male,50+,Cut,0.0,California,Medical Claim,Night,Shipping,"$1,585 ",Sat,11,2021
+396,396,9-Nov-21,Hands,Male,35-49,Slip/trip,3.0,Iowa,Lost Time,Night,Melting,"$2,015 ",Tue,11,2021
+397,397,10-Nov-21,Feet,Male,50+,Equipment,4.0,California,Lost Time,Day,Administration,"$1,793 ",Wed,11,2021
+398,398,12-Nov-21,Head,Male,18-24,Vehicle,2.5,Illinois,Lost Time,Afternoon,Melting,$807 ,Fri,11,2021
+399,399,14-Nov-21,Hands,Female,35-49,Cut,0.5,California,Lost Time,Afternoon,Painting,$920 ,Sun,11,2021
+400,400,15-Nov-21,Back,Male,25-34,Slip/trip,0.0,Florida,First Aid,Day,Maintenance,$37 ,Mon,11,2021
+401,401,15-Nov-21,Arms,Male,50+,Slip/trip,0.0,Georgia,Medical Claim,Night,Painting,"$4,791 ",Mon,11,2021
+402,402,16-Nov-21,Hands,Male,25-34,Crush & Pinch,0.0,Iowa,Medical Claim,Day,Melting,"$2,124 ",Tue,11,2021
+403,403,17-Nov-21,Back,Female,35-49,Fall,0.0,Ohio,Near Miss,Afternoon,Purchasing,$0 ,Wed,11,2021
+404,404,21-Nov-21,Feet,Male,25-34,Slip/trip,0.0,Alabama,Medical Claim,Day,Fabrication,"$1,636 ",Sun,11,2021
+405,405,22-Nov-21,,Male,25-34,Vehicle,0.0,Georgia,Medical Claim,Night,Maintenance,"$4,069 ",Mon,11,2021
+406,406,23-Nov-21,Trunk,Male,35-49,Lifting,0.0,Ohio,First Aid,Afternoon,Shipping,$493 ,Tue,11,2021
+407,407,24-Nov-21,Multiple,Male,18-24,Falling object,0.0,Alabama,Medical Claim,Night,Finishing,"$1,493 ",Wed,11,2021
+408,408,26-Nov-21,Hands,Male,18-24,Cut,0.0,Ohio,Near Miss,Night,Shipping,$0 ,Fri,11,2021
+409,409,28-Nov-21,Eye,Female,50+,Fall,0.0,Alabama,First Aid,Day,Administration,$449 ,Sun,11,2021
+410,410,30-Nov-21,Multiple,Male,18-24,Slip/trip,1.5,Florida,Lost Time,Night,Administration,"$4,871 ",Tue,11,2021
+411,411,3-Dec-21,Feet,Female,25-34,Lifting,0.0,Florida,Near Miss,Day,Purchasing,$0 ,Fri,12,2021
+412,412,4-Dec-21,Arms,Male,50+,Fall,0.0,Montana,Near Miss,Night,Melting,$0 ,Sat,12,2021
+413,413,6-Dec-21,Head,Male,25-34,Lifting,0.0,California,Medical Claim,Night,Purchasing,"$4,021 ",Mon,12,2021
+414,414,6-Dec-21,Abdomen,Male,25-34,Fall,4.5,Georgia,Lost Time,Night,Melting,"$4,399 ",Mon,12,2021
+415,415,8-Dec-21,Hands,Male,35-49,Vehicle,0.0,Texas,First Aid,Afternoon,Painting,$324 ,Wed,12,2021
+416,416,17-Dec-21,Feet,Male,35-49,Cut,0.0,Alabama,First Aid,Day,Finishing,$125 ,Fri,12,2021
+417,417,20-Dec-21,Back,Male,50+,Lifting,0.0,Iowa,Medical Claim,Day,Purchasing,"$2,351 ",Mon,12,2021
+418,418,22-Dec-21,Legs,Male,25-34,Lifting,0.0,Florida,Near Miss,Day,Administration,$0 ,Wed,12,2021
+419,419,23-Dec-21,Head,Male,35-49,Equipment,0.0,California,Medical Claim,Day,Maintenance,"$2,699 ",Thu,12,2021
+420,420,28-Dec-21,Head,Male,35-49,Equipment,0.0,Alabama,First Aid,Night,Painting,$422 ,Tue,12,2021
+421,421,29-Dec-21,,Male,50+,Cut,0.0,Illinois,Near Miss,Night,Finishing,$0 ,Wed,12,2021
+422,422,2-Jan-22,Multiple,Male,50+,Equipment,1.0,Florida,Lost Time,Afternoon,Maintenance,3582,Sun,1,2022
+423,423,3-Jan-22,Head,Male,35-49,Fall,0.0,California,Near Miss,Night,Security,0,Mon,1,2022
+424,424,4-Jan-22,Hands,Male,25-34,Slip/trip,0.0,Iowa,Near Miss,Afternoon,Painting,0,Tue,1,2022
+425,425,4-Jan-22,,Male,25-34,Crush & Pinch,1.5,Iowa,Lost Time,Night,Fabrication,2459,Tue,1,2022
+426,426,8-Jan-22,,Male,25-34,Cut,0.0,Texas,First Aid,Day,Purchasing,60,Sat,1,2022
+427,427,9-Jan-22,Back,Female,35-49,Lifting,4.0,Alabama,Lost Time,Night,Security,736,Sun,1,2022
+428,428,12-Jan-22,Hands,Male,50+,Equipment,0.0,Texas,Near Miss,Day,Painting,0,Wed,1,2022
+429,429,14-Jan-22,,Male,35-49,Burn,0.0,Illinois,Near Miss,Night,Shipping,0,Fri,1,2022
+430,430,15-Jan-22,Feet,Male,50+,Cut,0.0,Alabama,Medical Claim,Day,Security,1045,Sat,1,2022
+431,431,16-Jan-22,Feet,Male,50+,Slip/trip,0.0,Illinois,First Aid,Day,Maintenance,83,Sun,1,2022
+432,432,16-Jan-22,Neck,Male,50+,Slip/trip,0.0,Montana,Near Miss,Night,Purchasing,0,Sun,1,2022
+433,433,19-Jan-22,Back,Male,35-49,Burn,1.5,Alabama,Lost Time,Day,Security,998,Wed,1,2022
+434,434,19-Jan-22,Back,Male,25-34,Burn,1.0,Florida,Lost Time,Day,Painting,2170,Wed,1,2022
+435,435,20-Jan-22,Multiple,Male,18-24,Equipment,0.0,Iowa,First Aid,Night,Administration,385,Thu,1,2022
+436,436,21-Jan-22,Eye,Male,18-24,Burn,0.0,Alabama,Medical Claim,Afternoon,Purchasing,1277,Fri,1,2022
+437,437,22-Jan-22,Head,Male,35-49,Fall,0.0,Georgia,First Aid,Afternoon,Purchasing,350,Sat,1,2022
+438,438,27-Jan-22,Hands,Male,25-34,Falling object,0.0,Ohio,Medical Claim,Night,Administration,2321,Thu,1,2022
+439,439,28-Jan-22,Legs,Male,18-24,Vehicle,0.0,Florida,Near Miss,Day,Finishing,0,Fri,1,2022
+440,440,28-Jan-22,Legs,Male,18-24,Lifting,2.5,Florida,Lost Time,Afternoon,Melting,4947,Fri,1,2022
+441,441,30-Jan-22,Eye,Female,35-49,Equipment,5.0,Ohio,Lost Time,Day,Shipping,1919,Sun,1,2022
+442,442,2-Feb-22,Multiple,Male,35-49,Falling object,0.0,Texas,Near Miss,Afternoon,Fabrication,0,Wed,2,2022
+443,443,2-Feb-22,,Male,25-34,Falling object,1.5,Alabama,Lost Time,Night,Security,2381,Wed,2,2022
+444,444,6-Feb-22,Multiple,Male,50+,Vehicle,0.0,Georgia,Medical Claim,Afternoon,Security,534,Sun,2,2022
+445,445,7-Feb-22,Abdomen,Male,18-24,Vehicle,0.0,Georgia,First Aid,Day,Shipping,461,Mon,2,2022
+446,446,8-Feb-22,Head,Male,50+,Crush & Pinch,0.0,Georgia,Near Miss,Night,Security,0,Tue,2,2022
+447,447,8-Feb-22,Back,Male,35-49,Cut,4.0,Georgia,Lost Time,Night,Fabrication,1392,Tue,2,2022
+448,448,9-Feb-22,Feet,Male,50+,Cut,4.0,Texas,Lost Time,Night,Finishing,540,Wed,2,2022
+449,449,9-Feb-22,,Male,50+,Fall,0.0,Illinois,First Aid,Night,Security,41,Wed,2,2022
+450,450,10-Feb-22,Multiple,Male,25-34,Lifting,0.0,Iowa,Medical Claim,Afternoon,Administration,719,Thu,2,2022
+451,451,11-Feb-22,Hands,Male,25-34,Vehicle,0.0,Georgia,Near Miss,Night,Security,0,Fri,2,2022
+452,452,14-Feb-22,Multiple,Male,35-49,Lifting,0.0,Texas,First Aid,Night,Fabrication,330,Mon,2,2022
+453,453,14-Feb-22,Multiple,Male,50+,Falling object,4.5,Montana,Lost Time,Afternoon,Painting,855,Mon,2,2022
+454,454,15-Feb-22,Trunk,Male,35-49,Slip/trip,3.5,Iowa,Lost Time,Night,Painting,3824,Tue,2,2022
+455,455,22-Feb-22,Multiple,Male,25-34,Vehicle,0.0,Alabama,Medical Claim,Night,Shipping,3419,Tue,2,2022
+456,456,23-Feb-22,Eye,Female,50+,Crush & Pinch,4.0,Iowa,Lost Time,Afternoon,Purchasing,1594,Wed,2,2022
+457,457,24-Feb-22,Arms,Male,35-49,Fall,4.5,California,Lost Time,Night,Melting,585,Thu,2,2022
+458,458,24-Feb-22,Back,Male,35-49,Burn,0.0,Texas,Near Miss,Night,Administration,0,Thu,2,2022
+459,459,26-Feb-22,Multiple,Female,25-34,Cut,0.0,Ohio,Medical Claim,Night,Purchasing,2793,Sat,2,2022
+460,460,27-Feb-22,Multiple,Male,35-49,Lifting,0.0,Illinois,First Aid,Night,Shipping,326,Sun,2,2022
+461,461,28-Feb-22,Head,Male,35-49,Falling object,0.0,Montana,First Aid,Night,Security,314,Mon,2,2022
+462,462,3-Mar-22,Neck,Male,35-49,Vehicle,3.5,Texas,Lost Time,Afternoon,Finishing,1769,Thu,3,2022
+463,463,12-Mar-22,Hands,Male,50+,Vehicle,0.0,Illinois,Near Miss,Afternoon,Security,0,Sat,3,2022
+464,464,12-Mar-22,Feet,Male,18-24,Equipment,4.0,Alabama,Lost Time,Afternoon,Shipping,3498,Sat,3,2022
+465,465,15-Mar-22,Legs,Male,25-34,Crush & Pinch,1.5,Texas,Lost Time,Day,Maintenance,2336,Tue,3,2022
+466,466,17-Mar-22,Back,Male,50+,Cut,0.0,Illinois,First Aid,Night,Painting,114,Thu,3,2022
+467,467,22-Mar-22,Head,Male,18-24,Cut,0.0,Alabama,First Aid,Afternoon,Finishing,174,Tue,3,2022
+468,468,22-Mar-22,Head,Male,25-34,Slip/trip,0.0,California,Medical Claim,Night,Finishing,3379,Tue,3,2022
+469,469,25-Mar-22,,Male,25-34,Slip/trip,0.5,Ohio,Lost Time,Afternoon,Maintenance,4145,Fri,3,2022
+470,470,26-Mar-22,Eye,Male,50+,Slip/trip,0.0,Texas,Medical Claim,Day,Shipping,4150,Sat,3,2022
+471,471,28-Mar-22,Eye,Male,50+,Fall,0.0,Montana,First Aid,Night,Fabrication,259,Mon,3,2022
+472,472,1-Apr-22,Head,Male,35-49,Fall,3.5,Iowa,Lost Time,Day,Shipping,3134,Fri,4,2022
+473,473,1-Apr-22,Eye,Male,18-24,Equipment,0.0,California,Medical Claim,Night,Painting,4130,Fri,4,2022
+474,474,3-Apr-22,Legs,Male,25-34,Equipment,3.5,Montana,Lost Time,Night,Security,1424,Sun,4,2022
+475,475,4-Apr-22,Back,Male,18-24,Lifting,2.0,Florida,Lost Time,Day,Maintenance,4908,Mon,4,2022
+476,476,6-Apr-22,Back,Male,50+,Fall,0.0,Montana,First Aid,Afternoon,Finishing,162,Wed,4,2022
+477,477,7-Apr-22,Arms,Male,35-49,Fall,0.0,Florida,Medical Claim,Day,Finishing,4149,Thu,4,2022
+478,478,7-Apr-22,Legs,Male,35-49,Equipment,0.0,Florida,Near Miss,Night,Purchasing,0,Thu,4,2022
+479,479,8-Apr-22,Arms,Male,18-24,Lifting,0.0,Montana,Near Miss,Afternoon,Maintenance,0,Fri,4,2022
+480,480,8-Apr-22,Arms,Male,18-24,Slip/trip,0.0,Ohio,Medical Claim,Afternoon,Shipping,1174,Fri,4,2022
+481,481,12-Apr-22,Abdomen,Male,25-34,Burn,1.5,California,Lost Time,Afternoon,Administration,1777,Tue,4,2022
+482,482,17-Apr-22,Feet,Male,25-34,Falling object,0.0,Montana,First Aid,Day,Melting,59,Sun,4,2022
+483,483,20-Apr-22,Arms,Male,35-49,Vehicle,0.0,Georgia,Near Miss,Night,Maintenance,0,Wed,4,2022
+484,484,24-Apr-22,Abdomen,Male,25-34,Crush & Pinch,0.0,Alabama,Medical Claim,Afternoon,Fabrication,1848,Sun,4,2022
+485,485,24-Apr-22,Eye,Male,18-24,Slip/trip,0.0,Iowa,Near Miss,Day,Shipping,0,Sun,4,2022
+486,486,27-Apr-22,Feet,Male,25-34,Slip/trip,0.0,Texas,Medical Claim,Day,Administration,1696,Wed,4,2022
+487,487,27-Apr-22,,Male,50+,Fall,0.0,Texas,First Aid,Night,Security,5,Wed,4,2022
+488,488,29-Apr-22,Head,Male,50+,Slip/trip,0.0,Ohio,Near Miss,Night,Shipping,0,Fri,4,2022
+489,489,3-May-22,Back,Female,35-49,Vehicle,0.0,Illinois,Medical Claim,Afternoon,Administration,2795,Tue,5,2022
+490,490,6-May-22,Head,Male,18-24,Burn,0.0,Montana,Near Miss,Day,Fabrication,0,Fri,5,2022
+491,491,7-May-22,Hands,Male,50+,Vehicle,0.0,Alabama,Near Miss,Afternoon,Melting,0,Sat,5,2022
+492,492,8-May-22,Eye,Male,25-34,Slip/trip,0.0,Montana,First Aid,Day,Shipping,277,Sun,5,2022
+493,493,11-May-22,Eye,Male,50+,Fall,0.0,Iowa,First Aid,Afternoon,Security,189,Wed,5,2022
+494,494,16-May-22,Head,Male,25-34,Falling object,2.5,Florida,Lost Time,Night,Maintenance,4563,Mon,5,2022
+495,495,17-May-22,Head,Male,35-49,Equipment,0.0,Montana,First Aid,Afternoon,Administration,341,Tue,5,2022
+496,496,19-May-22,Feet,Male,50+,Cut,0.0,Georgia,Near Miss,Day,Finishing,0,Thu,5,2022
+497,497,23-May-22,,Male,18-24,Burn,0.0,Florida,Medical Claim,Day,Melting,1824,Mon,5,2022
+498,498,26-May-22,Multiple,Male,35-49,Cut,0.0,Florida,Medical Claim,Night,Fabrication,1643,Thu,5,2022
+499,499,27-May-22,Eye,Male,18-24,Equipment,0.0,Georgia,First Aid,Afternoon,Administration,115,Fri,5,2022
+500,500,30-May-22,Feet,Male,18-24,Burn,1.0,Illinois,Lost Time,Night,Painting,1449,Mon,5,2022
+501,501,31-May-22,Feet,Male,25-34,Fall,0.0,California,Medical Claim,Afternoon,Painting,2764,Tue,5,2022
+502,502,3-Jun-22,Back,Male,50+,Lifting,0.0,Alabama,Near Miss,Afternoon,Maintenance,0,Fri,6,2022
+503,503,3-Jun-22,Trunk,Male,18-24,Equipment,0.0,California,First Aid,Day,Maintenance,67,Fri,6,2022
+504,504,3-Jun-22,Legs,Male,50+,Burn,0.0,Georgia,Medical Claim,Afternoon,Finishing,4639,Fri,6,2022
+505,505,5-Jun-22,Back,Male,25-34,Slip/trip,0.0,Iowa,Near Miss,Day,Purchasing,0,Sun,6,2022
+506,506,7-Jun-22,Abdomen,Male,25-34,Crush & Pinch,0.0,California,Near Miss,Day,Shipping,0,Tue,6,2022
+507,507,10-Jun-22,Multiple,Female,50+,Slip/trip,0.0,Florida,Medical Claim,Day,Administration,2356,Fri,6,2022
+508,508,25-Jun-22,Feet,Male,50+,Burn,0.0,Iowa,Medical Claim,Day,Purchasing,2184,Sat,6,2022
+509,509,26-Jun-22,Head,Female,25-34,Crush & Pinch,0.0,California,First Aid,Night,Administration,77,Sun,6,2022
+510,510,27-Jun-22,Hands,Male,25-34,Lifting,0.0,Florida,Near Miss,Afternoon,Melting,0,Mon,6,2022
+511,511,28-Jun-22,Hands,Male,25-34,Cut,0.0,Florida,Near Miss,Afternoon,Purchasing,0,Tue,6,2022
+512,512,28-Jun-22,Trunk,Male,50+,Falling object,0.0,Florida,Medical Claim,Night,Administration,804,Tue,6,2022
+513,513,28-Jun-22,Hands,Male,18-24,Vehicle,0.0,Texas,Medical Claim,Afternoon,Melting,706,Tue,6,2022
